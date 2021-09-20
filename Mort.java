@@ -57,7 +57,10 @@ public class Mort extends LinearOpMode {
         backright.setPower(targetPower2);
         targetPower2 = gamepad1.right_stick_x;
         backleft.setPower(targetPower2);
-        // Put initialization blocks here.
+        // Autonomous
+        
+        
+        // Sensors
       }
     }
   }
